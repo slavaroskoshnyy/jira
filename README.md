@@ -1,7 +1,7 @@
-# jira
+# Jira
 
-Я протестировал сайт "AliExspress" и выявил баги:
+## Я протестировал сайт "AliExspress" и зафиксировал несколько багов использовав Jira:
 
-"AliExspress" <a href="https://testbase.atlassian.net/browse/TEST-21688?atlOrigin=eyJpIjoiNDdmMmIzMzEwMmE0NGZmNTljNjI2NTI5Yjg0ZTVjM2UiLCJwIjoiaiJ9" target="_blank"> Bag 1 </a>.
+- [Bag 1](https://testbase.atlassian.net/browse/TEST-21688?atlOrigin=eyJpIjoiNDdmMmIzMzEwMmE0NGZmNTljNjI2NTI5Yjg0ZTVjM2UiLCJwIjoiaiJ9).
 
-"AliExspress" <a href="https://testbase.atlassian.net/browse/TEST-21687?atlOrigin=eyJpIjoiZTA5MjZlYmNmNTRmNGRlZDkzYmRmMTdiM2I1ZTcwOTAiLCJwIjoiaiJ9" target="_blank"> Bag 2 </a>.
+- [Bag 2](https://testbase.atlassian.net/browse/TEST-21687?atlOrigin=eyJpIjoiZTA5MjZlYmNmNTRmNGRlZDkzYmRmMTdiM2I1ZTcwOTAiLCJwIjoiaiJ9).
